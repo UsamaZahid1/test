@@ -1,1 +1,6 @@
-hello world >this is demo branch master
+<<<<<<< HEAD
+hello world >this is demo branch 
+=======
+hello world >this is demo branch
+this is 3rd branch
+>>>>>>> newbranch
